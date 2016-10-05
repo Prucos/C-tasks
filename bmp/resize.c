@@ -1,10 +1,9 @@
 /**
- * copy.c
+ * resize.c
  *
  * Computer Science 50
  * Problem Set 4
- *
- * Copies a BMP piece by piece, just because.
+ * Resizes file in scale from 1 to 100
  */
        
 #include <stdio.h>
